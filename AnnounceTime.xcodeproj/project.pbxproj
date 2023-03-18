@@ -11,6 +11,7 @@
 		6512608E28DC11FA004DE9AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6512608D28DC11FA004DE9AC /* ContentView.swift */; };
 		6512609028DC11FC004DE9AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6512608F28DC11FC004DE9AC /* Assets.xcassets */; };
 		6512609328DC11FC004DE9AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6512609228DC11FC004DE9AC /* Preview Assets.xcassets */; };
+		6512609B28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6512609A28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6512608F28DC11FC004DE9AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6512609228DC11FC004DE9AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6512609428DC11FC004DE9AC /* AnnounceTime.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AnnounceTime.entitlements; sourceTree = "<group>"; };
+		6512609A28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = com.tobyziegler.announcetime.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		6512607F28DC11FA004DE9AC = {
 			isa = PBXGroup;
 			children = (
+				6512609A28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist */,
 				6512608A28DC11FA004DE9AC /* AnnounceTime */,
 				6512608928DC11FA004DE9AC /* Products */,
 			);
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6512609328DC11FC004DE9AC /* Preview Assets.xcassets in Resources */,
+				6512609B28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist in Resources */,
 				6512609028DC11FC004DE9AC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
