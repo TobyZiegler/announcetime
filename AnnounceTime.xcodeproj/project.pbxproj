@@ -22,6 +22,7 @@
 		6512609228DC11FC004DE9AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6512609428DC11FC004DE9AC /* AnnounceTime.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AnnounceTime.entitlements; sourceTree = "<group>"; };
 		6512609A28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = com.tobyziegler.announcetime.plist; sourceTree = "<group>"; };
+		65D8AA0529C96178006B4C0A /* AnnounceTime-launchd.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "AnnounceTime-launchd.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		6512607F28DC11FA004DE9AC = {
 			isa = PBXGroup;
 			children = (
+				65D8AA0529C96178006B4C0A /* AnnounceTime-launchd.sh */,
 				6512609A28DC12AE004DE9AC /* com.tobyziegler.announcetime.plist */,
 				6512608A28DC11FA004DE9AC /* AnnounceTime */,
 				6512608928DC11FA004DE9AC /* Products */,
