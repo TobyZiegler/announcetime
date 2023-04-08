@@ -26,3 +26,8 @@ else
     say "Announcements off" using "Samantha"
 end if
 EOS
+
+#
+# simple reference tutorial: https://medium.com/@chetcorcos/a-simple-launchd-tutorial-9fecfcf2dbb3
+#
+
